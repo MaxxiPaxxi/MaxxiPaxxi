@@ -1,6 +1,10 @@
 <img src="profile.jpeg" width="200"/>
 
-# Maximilien Bohm
+# Maximilien Bohm 
+
+![](https://img.shields.io/badge/-Physicist-brightgreen) ![](https://img.shields.io/badge/-Mathematician-green) ![](https://img.shields.io/badge/-Linux%20Nerd-green)
+
+*Currently pursuing a Bachelor (BsC) in Mathematics and Physics. Will pursue a Master (MScT) in AI in 2022.*
 
 ## Hi there!  👋
 
@@ -20,9 +24,7 @@ Out of my experience working on projects with my family, I enjoyed more working 
 
 ## Interest Areas
 
-My interests include:
-<img src="https://img.shields.io/badge/-Artificial%20Intelligence-yellow"></img>
-Artificial Intelligence, Aerospace Engineering, Quantum Computers, Quantum Field Theory, Cosmology, Linux, Embedded Systems and IBM QX Architecture.
+![](https://img.shields.io/badge/-Artificial%20Intelligence-green) ![](https://img.shields.io/badge/-Aerospace%20Engineering-brightgreen) ![](https://img.shields.io/badge/-Quantum%20Computers-yellowgreen) ![](https://img.shields.io/badge/-Quantum%20Field%20Theory-yellowgreen) ![](https://img.shields.io/badge/-Cosmology-yellow) ![](https://img.shields.io/badge/-Linux-brightgreen) ![](https://img.shields.io/badge/-Embedded%20Systems-green) ![](https://img.shields.io/badge/-IBM%20QX%20Architecture-yellowgreen)
 
 ## Projects
 
