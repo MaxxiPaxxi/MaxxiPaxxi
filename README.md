@@ -10,13 +10,6 @@
 
 My name is Maximilien Bohm. I am a student in Mathematics and Physics with a great interest in Computer Science and more specifically Quantum Computer Technologies.
 
-## Summary
-
-I am looking to develop my skills in artificial intelligence and visual processing.
-For my professional goals, I will study Artificial Intelligence and Advanced Visual Computing as an entrance point towards work involving super computers and system integration. My end-goal is to work in the development of hardware for quantum computers. I am particularly interested by the IBM QX Architecture and would like to work on superconducting qubits circuit design.
-As for my personal goals, I intend to discover new environments while keeping in touch with my French and Swedish roots.
-I have an interest in many different fields and never fear entering a new field in order to develop my curiosity. I am as well open to new experiences and enjoy learning from experience.
-
 ## Interest Areas
 
 ![](https://img.shields.io/badge/-Artificial%20Intelligence-green) ![](https://img.shields.io/badge/-Aerospace%20Engineering-brightgreen) ![](https://img.shields.io/badge/-Quantum%20Computers-yellowgreen) ![](https://img.shields.io/badge/-Quantum%20Field%20Theory-yellowgreen) ![](https://img.shields.io/badge/-Cosmology-yellow) ![](https://img.shields.io/badge/-Linux-brightgreen) ![](https://img.shields.io/badge/-Embedded%20Systems-green) ![](https://img.shields.io/badge/-IBM%20QX%20Architecture-yellowgreen)
