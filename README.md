@@ -1,4 +1,4 @@
-<img src="profile.jpeg" width="200"/>
+<img align="right" width="250" height="250" src="profile.jpeg">
 
 # Maximilien Bohm 
 
