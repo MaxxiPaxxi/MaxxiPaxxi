@@ -1,3 +1,4 @@
+![alt text](profile.jpeg)
 # Maximilien Bohm
 
 ## Hi there!  👋
