@@ -21,7 +21,7 @@ Out of my experience working on projects with my family, I enjoyed more working 
 ## Interest Areas
 
 My interests include:
-<a href="https://img.shields.io/badge/-Artificial%20Intelligence-yellow"></a>
+<img src="https://img.shields.io/badge/-Artificial%20Intelligence-yellow"></img>
 Artificial Intelligence, Aerospace Engineering, Quantum Computers, Quantum Field Theory, Cosmology, Linux, Embedded Systems and IBM QX Architecture.
 
 ## Projects
