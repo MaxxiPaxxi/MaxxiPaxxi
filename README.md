@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/badge/-Physicist-brightgreen) ![](https://img.shields.io/badge/-Mathematician-green) ![](https://img.shields.io/badge/-Linux%20Nerd-green)
 
-*Currently pursuing a Bachelor (BsC) in Mathematics and Physics. Will pursue a Master (MScT) in AI in 2022.*
+*Currently pursuing a Bachelor (BsC) in Mathematics and Physics at Ecole Polytechnique in Paris. Will pursue a Master (MScT) in AI in 2022.*
 
 ## Hi there!  👋
 
