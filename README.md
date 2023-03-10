@@ -4,11 +4,13 @@
 
 ![](https://img.shields.io/badge/-Physicist-brightgreen) ![](https://img.shields.io/badge/-Mathematician-green) ![](https://img.shields.io/badge/-Linux%20Nerd-green)
 
-*Currently pursuing a Bachelor (BsC) in Mathematics and Physics at Ecole Polytechnique in Paris. Will pursue a Master (MScT) in AI in 2022.*
+*Currently pursuing a Master (MSc&T) in Artificial Intelligence and Advanced Visual Computing at Ecole Polytechnique in Paris*
 
 ## Hi there!  👋
 
-My name is Maximilien Bohm. I am a student in Mathematics and Physics with a great interest in Computer Science and more specifically Quantum Computer Technologies.
+My name is Maximilien Bohm. I am a student in Artificial Intelligence with a great interest in Computer Science and Mathematics and Future Technologies.
+I am highly interested in the advantages of Artificial Intelligence, Alternative Computing and Distributed Computing.
+I am currently seeking an internship (5-6 months) as part of my Masters to develop my skills in AI and to develop a professional network.
 
 ## Interest Areas
 
@@ -16,7 +18,7 @@ My name is Maximilien Bohm. I am a student in Mathematics and Physics with a gre
 
 ## Projects
 
-I am currently teaching myself my way around Arch Linux and setting up my environment. I have some projects on the Linux Kernel, especially fixing firmware driver issues with my HP Pavilion Laptop.
+I am currently teaching myself my way around Arch Linux and setting up my environment. I have some projects on the Linux Kernel, especially fixing firmware driver issues with my Laptop
 I have been working on the Linux Kernel for 4 years now and know my way around the Linux Kernel and the Linux Terminal with some limited knowledge in Shell scripting.
 
 ## Programming Languages
