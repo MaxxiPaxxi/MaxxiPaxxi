@@ -8,12 +8,12 @@
 
 ## Hi there!  👋
 
-My name is Maximilien Bohm. I am a student in Artificial Intelligence with a great interest in Computer Science and Mathematics and Future Technologies.
-I am highly interested in the advantages of Artificial Intelligence, Alternative Computing and Distributed Computing.
-I expect to graduate in September 2024 after finishing a end-of-studies internship of a duration of 6 months. 
-My professional goal is to work in the field of AI and on state of the art technology. I have a great interest in Mathematics and in AI model architecture and am eager to challenge myself with promising new technologies. 
-I have lived for 10 years in France, 5 years in Sweden and 6 years in the UAE and consider these life experiences to hopefully be valuable to corporations with global footprints.
-I am currently seeking a end-of-studies internship (6+ months) in the fields of AI to further improve my skills in the theoretical aspect of Artificial Intelligence. I am highly motivated by theory and technical implications and seek to join R&D departments in developping state of the art technology.
+My name is Maximilien Bohm. I am a student in Artificial Intelligence with a great interest in Computer Science and Mathematics and Future Technologies.<br>
+I am highly interested in the advantages of Artificial Intelligence, Alternative Computing and Distributed Computing.<br>
+I expect to graduate in September 2024 after finishing a end-of-studies internship of a duration of 6 months.<br>
+My professional goal is to work in the field of AI and on state of the art technology. I have a great interest in Mathematics and in AI model architecture and am eager to challenge myself with promising new technologies.<br>
+I have lived for 10 years in France, 5 years in Sweden and 6 years in the UAE and consider these life experiences to hopefully be valuable to corporations with global footprints.<br>
+I am currently seeking a end-of-studies internship (6+ months) in the fields of AI to further improve my skills in the theoretical aspect of Artificial Intelligence. I am highly motivated by theory and technical implications and seek to join R&D departments in developping state of the art technology.<br>
 
 ## Interest Areas
 
