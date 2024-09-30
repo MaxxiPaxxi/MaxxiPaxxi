@@ -30,7 +30,7 @@ Cultural exchange is an important aspect for me, therefore I am seeking for glob
 ## Projects
 
 I am currently teaching myself my way around Arch Linux and setting up my environment. I have some projects on the Linux Kernel, especially fixing firmware driver issues with my Laptop
-I have been working on Linux for 5 years now and know my way around the Linux Kernel, Infrastructure and the Linux Terminal with some limited knowledge in Shell scripting.
+I have been working on Linux for 5 years now and know my way around the Linux Kernel, Infrastructure and the Linux Terminal with some limited knowledge in Shell scripting. Moreover, I have experience in Software as a Service (SaaS) and Cloud Computing mostly directed towards Google Cloud Platform.
 
 Furthermore, I dedicate part of my time in reading published research articles on [arXiv](https://arxiv.org) and understanding current advances.
 
